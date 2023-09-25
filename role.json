@@ -16,7 +16,6 @@
       "issuanceDate",
       "credentialSubject",
       "credentialSchema",
-      "credentialStatus",
       "issuer"
     ],
     "properties": {
