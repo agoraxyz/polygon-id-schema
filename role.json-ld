@@ -8,10 +8,6 @@
         "GuildCredential": {
           "@id": "https://raw.githubusercontent.com/agoraxyz/polygon-id-schema/main/role.json-ld#GuildCredential",
           "@context": {
-            "@version": 1.1,
-            "@protected": true,
-            "id": "@id",
-            "type": "@type",
             "vocab": "https://github.com/agoraxyz/polygon-id-schema/blob/main/role.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "joinDate": {

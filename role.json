@@ -79,22 +79,6 @@
           }
         }
       },
-      "subjectPosition": {
-        "type": "string",
-        "enum": [
-          "none",
-          "index",
-          "value"
-        ]
-      },
-      "merklizationRootPosition": {
-        "type": "string",
-        "enum": [
-          "none",
-          "index",
-          "value"
-        ]
-      },
       "revNonce": {
         "type": "integer"
       },
@@ -108,9 +92,11 @@
         "type": "object",
         "required": [
           "id",
-          "role",
-          "hireDate",
-          "salary"
+          "joinDate",
+          "guildName",
+          "guildId",
+          "roleName",
+          "roleId"
         ],
         "properties": {
           "id": {
