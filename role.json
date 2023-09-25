@@ -90,7 +90,6 @@
       "credentialSubject": {
         "type": "object",
         "required": [
-          "id",
           "joinDate",
           "guildName",
           "guildId",

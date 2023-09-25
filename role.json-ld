@@ -10,7 +10,6 @@
           "@context": {
             "vocab": "https://github.com/agoraxyz/polygon-id-schema/blob/main/role.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
-            "id": "@id",
             "joinDate": {
               "@id": "vocab:joinDate",
               "@type": "xsd:dateTime"
