@@ -5,7 +5,9 @@
       "uris": {
         "jsonLdContext": "https://raw.githubusercontent.com/agoraxyz/polygon-id-schema/main/role.json-ld",
         "jsonSchema": "https://raw.githubusercontent.com/agoraxyz/polygon-id-schema/main/role.json"
-      }
+      },
+      "version": "0.1",
+      "type": "GuildCredential"
     },
     "required": [
       "@context",
