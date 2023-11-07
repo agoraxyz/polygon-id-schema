@@ -20,7 +20,7 @@
             },
             "guildId": {
               "@id": "vocab:guildId",
-              "@type": "xsd:integer"
+              "@type": "xsd:string"
             },
             "roleName": {
               "@id": "vocab:roleName",
