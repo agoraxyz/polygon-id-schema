@@ -110,7 +110,7 @@
             "type": "string"
           },
           "guildId": {
-            "type": "integer"
+            "type": "string"
           },
           "roleName": {
             "type": "string"
