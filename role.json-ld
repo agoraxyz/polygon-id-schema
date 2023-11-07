@@ -6,9 +6,9 @@
         "id": "@id",
         "type": "@type",
         "GuildCredential": {
-          "@id": "https://raw.githubusercontent.com/agoraxyz/polygon-id-schema/main/role.json-ld#GuildCredential",
+          "@id": "https://raw.githubusercontent.com/agoraxyz/polygon-id-schema/test/role.json-ld#GuildCredential",
           "@context": {
-            "vocab": "https://github.com/agoraxyz/polygon-id-schema/blob/main/role.md#",
+            "vocab": "https://github.com/agoraxyz/polygon-id-schema/blob/test/role.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "joinDate": {
               "@id": "vocab:joinDate",

@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/agoraxyz/polygon-id-schema/main/role.json-ld",
-        "jsonSchema": "https://raw.githubusercontent.com/agoraxyz/polygon-id-schema/main/role.json"
+        "jsonLdContext": "https://raw.githubusercontent.com/agoraxyz/polygon-id-schema/test/role.json-ld",
+        "jsonSchema": "https://raw.githubusercontent.com/agoraxyz/polygon-id-schema/test/role.json"
       },
       "version": "0.1",
       "type": "GuildCredential"
